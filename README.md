@@ -1,4 +1,6 @@
+<!-- Trigger Vercel Build -->
 # TecHub - Multi-Vendor E-Commerce Platform
+
 
 TecHub is a comprehensive, full-stack multi-vendor e-commerce platform. It empowers independent sellers to list their products while providing a seamless, feature-rich shopping experience for customers.
 
